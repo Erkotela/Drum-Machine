@@ -1,0 +1,11 @@
+.drum-pad {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  max-width: 400px;
+}
+#display {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
